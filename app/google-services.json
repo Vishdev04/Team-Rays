@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "162204482573",
+    "firebase_url": "https://teamrays2.firebaseio.com",
+    "project_id": "teamrays2",
+    "storage_bucket": "teamrays2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162204482573:android:86a3c96607a9240d",
+        "android_client_info": {
+          "package_name": "tryst19.teamrays.com.teamrays"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162204482573-q5ikt9jnrfklu263t35rtfi8qcf1em52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tryst19.teamrays.com.teamrays",
+            "certificate_hash": "c7c5667653d0a1d759effa840331e8b4aa902aaf"
+          }
+        },
+        {
+          "client_id": "162204482573-hop8cej45cjeb3mgqmg046ei6asd2nsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtM8lepU3VeSQOh99_vDvxaM-l7oqwn0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162204482573-hop8cej45cjeb3mgqmg046ei6asd2nsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
